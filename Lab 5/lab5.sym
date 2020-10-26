@@ -1,0 +1,19 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DIVIDE                  302D
+//	MULTIPLY                300D
+//	X                       3008
+//	Y                       3009
+//	done                    3028
+//	loopM                   301F
+//	loopd                   303B
+//	mod                     300C
+//	negX                    3018
+//	negY                    301E
+//	next                    3037
+//	prod                    300A
+//	quot                    300B
+//	saveX                   302B
+//	saveY                   302C
+//	stop                    3024
+//	zero                    3034

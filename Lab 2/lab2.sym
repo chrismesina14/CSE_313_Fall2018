@@ -1,0 +1,12 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	SETZ                    301B
+//	STORE                   3017
+//	X                       301D
+//	Y                       301E
+//	Z                       3022
+//	abs1                    300A
+//	abs2                    300F
+//	absX                    3020
+//	absY                    3021
+//	sub                     301F

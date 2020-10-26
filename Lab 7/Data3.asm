@@ -1,0 +1,5 @@
+	.ORIG x31F0
+	.FILL #6
+	.FILL #23
+	.FILL #1941
+	.END

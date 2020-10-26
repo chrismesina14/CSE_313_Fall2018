@@ -1,0 +1,5 @@
+	.ORIG x3120
+	.FILL #10
+	.FILL #20
+	.END
+	
